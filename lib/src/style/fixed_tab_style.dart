@@ -51,7 +51,7 @@ class FixedTabStyle extends InnerBuilder {
           children: <Widget>[
             
               Container(
-              // necessary otherwise the badge will not large enough
+              // //necessary otherwise the badge will not large enough
                 width: style.activeIconSize +2,
                 height: style.activeIconSize +2,
                 decoration: BoxDecoration(
